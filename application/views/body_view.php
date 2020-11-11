@@ -13,7 +13,7 @@ defined('BASEPATH') or exit('No direct script access allowed');
 
 <body>
 
-	<div id="container-fluid">
+	<div id="container">
 		<div class="jumbotron">
 			asdasd
 		</div>
